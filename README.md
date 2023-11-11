@@ -1,7 +1,7 @@
 # Calculator Simple in Flutter
 
 Tampilan flutter home
-[!](tampilan pertama)(calc1.png)
+[!][tampilan pertama](calc1.png)
 
 ## Getting Started
 
