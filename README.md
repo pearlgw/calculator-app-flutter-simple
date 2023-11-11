@@ -1,6 +1,7 @@
-# flutter_calculator
+# Calculator Simple in Flutter
 
-A new Flutter project.
+Tampilan flutter home
+[!](tampilan pertama)(calc1.png)
 
 ## Getting Started
 
